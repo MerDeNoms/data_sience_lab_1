@@ -1,1 +1,1 @@
-Enjoy, lab_1 code
+Enjoy, lab_1 code in python
